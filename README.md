@@ -35,3 +35,5 @@ Final map representing the ideal venue location
 - Neighbourhood Profiles: https://open.toronto.ca/dataset/neighbourhood-profiles/
 - Neighbourhood Crime Rates: https://data.torontopolice.on.ca/datasets/TorontoPS::neighbourhood-crime-rates-boundary-file-/about
 - Foursquare Places API: https://developer.foursquare.com/reference/place-search
+- Jupyter Notebook
+- Folium
