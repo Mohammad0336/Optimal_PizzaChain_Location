@@ -32,13 +32,13 @@ Final map representing the ideal venue location
 
 When Examining the cluster means they were then ranked:
 
-`Cluster1: Ranked 1st for idealism`: `Green Polygons on Map`
+`Cluster1: Ranked 1st for idealism`: `Green Areas on Map`
 
-`Cluster0: Ranked 2nd for idealism`: `Yellow Polygons on Map`
+`Cluster0: Ranked 2nd for idealism`: `Yellow Areas on Map`
 
-`Cluster2: Ranked 3rd for idealism`: `Cyan Polygons on Map`
+`Cluster2: Ranked 3rd for idealism`: `Cyan Areas on Map`
 
-`Cluster3: Ranked 4th for idealism`: `Red Polygons on Map`
+`Cluster3: Ranked 4th for idealism`: `Red Areas on Map`
 
 ## Built using: 
 - Neighbourhood Dataset: https://open.toronto.ca/dataset/neighbourhoods/ 
