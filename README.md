@@ -45,7 +45,7 @@ When Examining the cluster means they were then ranked:
 
 `Cluster3: Ranked 4th for idealism`: `Red Areas on Map`
 
-`Marker: Ideal Location Rouge Neighbourhood`
+`Marker: Ideal Location`: `Rouge Neighbourhood`
 
 ## Built using: 
 - Neighbourhood Dataset: https://open.toronto.ca/dataset/neighbourhoods/ 
