@@ -30,6 +30,12 @@ Means of cluster data
 Final map representing the ideal venue location
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Map.jpg)
 
+When Examining the cluster means they were then ranked:
+`Cluster1: Ranked 1st for idealism`: `Green Polygons on Map`
+`Cluster0: Ranked 2nd for idealism`: `Yellow Polygons on Map`
+`Cluster2: Ranked 3rd for idealism`: `Cyan Polygons on Map`
+`Cluster3: Ranked 4th for idealism`: `Red Polygons on Map`
+
 ## Built using: 
 - Neighbourhood Dataset: https://open.toronto.ca/dataset/neighbourhoods/ 
 - Neighbourhood Profiles: https://open.toronto.ca/dataset/neighbourhood-profiles/
