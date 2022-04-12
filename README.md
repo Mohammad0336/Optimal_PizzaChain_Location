@@ -12,22 +12,27 @@ Collecting Data from various datasets that contains information on Toronto's Nei
 
 ### Merging Neighbourhood Data
 Shown below a dataset on the combination of neighbourhood data
+
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Clusters.jpg)
 
 ### Foursquare Venue Data
 Shown below a dataset on venues of pizza shops
+
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/VDataset.jpg)
 
 ### Cluster Data
 Shown below a dataset created after grouping the merged venue and neighbourhood data
+
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Clusters.jpg)
 
 ### Cluster Means
 Means of cluster data
+
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/ClustersMean.jpg)
 
 ## Result
 Final map representing the ideal venue location
+
 ![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Map.jpg)
 
 When Examining the cluster means they were then ranked:
@@ -39,6 +44,8 @@ When Examining the cluster means they were then ranked:
 `Cluster2: Ranked 3rd for idealism`: `Cyan Areas on Map`
 
 `Cluster3: Ranked 4th for idealism`: `Red Areas on Map`
+
+`Marker: Ideal Location Rouge Neighbourhood`
 
 ## Built using: 
 - Neighbourhood Dataset: https://open.toronto.ca/dataset/neighbourhoods/ 
