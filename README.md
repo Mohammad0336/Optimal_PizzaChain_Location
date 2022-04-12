@@ -12,16 +12,16 @@ Collecting Data from various datasets that contains information on Toronto's Nei
 
 ### Merging Neighbourhood Data
 Shown below a dataset on the combination of neighbourhood data
-![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/Dataset.jpg)
+![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Clusters.jpg)
 ### Foursquare Venue Data
 Shown below a dataset on venues of pizza shops
-![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/VDataset.jpg)
+![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/VDataset.jpg)
 ### Cluster Data
 Shown below a dataset created after grouping the merged venue and neighbourhood data
-![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/Clusters.jpg)
+![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Clusters.jpg)
 ### Cluster Means
 Means of cluster data
-![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/ClustersMean.jpg)
+![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/ClustersMean.jpg)
 ## Result
 Final map representing the ideal venue location
-![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/Map.jpg)
+![This is an image](https://github.com/Mohammad0336/Ideal_Location/blob/main/Images/Map.jpg)
