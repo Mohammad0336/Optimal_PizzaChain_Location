@@ -9,3 +9,9 @@ Collecting Data from various datasets that contains information on Toronto's Nei
 - Neighbourhood Profiles
 - Neighbourhood Crime Rates
 - Venues Collection
+
+### Merging Neighbourhood Data
+Shown below a dataset on the combination of neighbourhood data
+
+### Foursquare Venue Data
+Shown below a dataset on venues of pizza shops
