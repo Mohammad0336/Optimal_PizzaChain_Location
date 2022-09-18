@@ -3,6 +3,11 @@ Finding Ideal Neighbourhood in Toronto Ontario, for Good guys pizzah to create t
 
 Using Machine Learning and Artificial Intelligence this project's purpose is to plot a map using folium to highlighting clusters of Neighbourhoods ranking their desirability.
 
+### Developed By
+- Mohammad Asif
+- Abbas Rizvi
+- Matthew Gardiner
+
 ## Data Collection
 Collecting Data from various datasets that contains information on Toronto's Neighbourhoods:
 - Neighbourhood Dataset
